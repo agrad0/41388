@@ -1,0 +1,27 @@
+.circle-grey {
+    background-color: rgb(238, 229, 229);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+
+
+.fa-brands {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2.5em;
+    color: orange;
+    /* background-color: white; */
+}
+
+hr {
+    width: 20%;
+    margin-bottom: 20px;
+    margin: 20px auto;
+
+}
+
